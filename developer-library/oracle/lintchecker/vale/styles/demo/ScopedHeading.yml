@@ -1,5 +1,0 @@
-extends: capitalization
-message: "'%s' should be in title case"
-level: warning
-scope: heading.h2
-match: $title
