@@ -13,7 +13,7 @@ This is some text **ACT test**
 <script type="text/javascript" async
         src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
-{% ACT test %}
+<!--{% ACT test %}-->
 {{< /file-excerpt >}}
 
 ACT test
